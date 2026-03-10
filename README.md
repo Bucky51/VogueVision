@@ -2,6 +2,15 @@
 
 > AI-powered fashion assistant that uses your camera and voice to analyze outfits and recommend clothing in real time, built with Gemini 2.5 Flash.
 
+![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-2.5%20Flash-4285F4?style=flat-square&logo=google&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-Camera-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-UI-FF6F00?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data-150458?style=flat-square&logo=pandas&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-22C55E?style=flat-square)
+![Platform](https://img.shields.io/badge/Platform-Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+
 ---
 
 ## What it does
@@ -154,4 +163,14 @@ The raw dataset was cleaned using `cleaning/clean_products.ipynb` which covers:
 
 ## License
 
-MIT
+This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for full details.
+
+In short, you are free to:
+- ✅ Use this project personally or commercially
+- ✅ Modify and distribute it
+- ✅ Use it in private or open source projects
+
+As long as you:
+- 📌 Include the original copyright notice and license in any copy or substantial portion of the software
+
+> **Note:** This license covers the VogueVision source code only. The product dataset (`db_products_cleaned.csv`) and clothing images belong to their respective brand owners and are not covered by this license.

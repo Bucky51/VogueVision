@@ -1,0 +1,27 @@
+# AI Vision Voice Assistant — Requirements
+# Install with: pip install -r requirements.txt
+# Note: PyAudio may need special installation on Windows (see below)
+
+# Core AI
+google-genai
+
+# Computer Vision
+opencv-python
+Pillow
+
+# Speech
+SpeechRecognition
+pyttsx3
+PyAudio
+
+# Data
+pandas
+
+# ---------------------------------------------------------
+# PyAudio on Windows (if pip install fails):
+#   pip install pipwin
+#   pipwin install pyaudio
+#
+# Or download prebuilt wheel from:
+#   https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
+# ---------------------------------------------------------

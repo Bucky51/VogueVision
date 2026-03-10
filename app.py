@@ -53,7 +53,7 @@ FONT_BTN_SM   = ("Trebuchet MS", 8, "bold")
 # ==========================================================
 # API KEY
 # ==========================================================
-GEMINI_API_KEY = "AIzaSyC1WpCi0JGl-zxdlqogmvWS34J5R3UGi70"
+GEMINI_API_KEY = "YOUR_GEMINI_API_KEY_HERE"
 client = genai.Client(api_key=GEMINI_API_KEY)
 
 
